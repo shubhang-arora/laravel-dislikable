@@ -10,7 +10,7 @@
             "email": "sa287@snu.edu.in"
         }
     ],
-    "minimum-stability": "dev",
+   
     "require": {
     	"php": ">=5.3.0",
 		"illuminate/database": "~5.0",
