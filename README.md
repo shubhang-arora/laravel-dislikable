@@ -5,6 +5,7 @@ Trait for Laravel Eloquent models to allow easy implementation of a "Dislike" fe
 
 #### Composer Install (for Laravel 5)
 
+
 	composer require shubhang-arora/laravel-dislikeable "~1.0"
 
 #### Install and then run the migrations
